@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidU</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="BtnShoppingList">Lista zakupów</string>
+    <string name="BtnDraw">Rysowanie</string>
+    <string name="BtnApi">API</string>
+    <string name="BtnView">Widok</string>
+    <string name="HTML_data">Dane z HHTML</string>
+    <string name="JSON_data">Dane z JSON</string>
+    <string name="title_activity_shopping_list">Lista zakupów</string>
+</resources>
